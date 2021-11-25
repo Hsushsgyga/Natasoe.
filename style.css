@@ -1,0 +1,31 @@
+*{
+ margin: 5px 0 0 0 ;
+ color: white;
+ font-family: 'Lobster', cursive; 
+
+}
+  
+
+.img{
+    border-radius: 50%;
+    border : 0px solid black ;
+    width: 280px ;
+    padding: auto;
+    margin : auto;
+    text-align:center ;
+}
+.text{
+  font-size: 17px;
+  border: 0px solid red ;
+  width: 80%;
+  text-align:center ; 
+  box-shadow: 5px 5px 50px black;
+  border-radius: 10px;
+  margin: 30px 30px 30px 100px ;
+  padding: 30px 30px 30px 30px ;
+  background-color: #729DFF;
+}
+.h1{
+  border: 10px solid red ;
+  text-align :center ;
+}
